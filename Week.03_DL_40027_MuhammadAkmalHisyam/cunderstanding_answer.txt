@@ -1,0 +1,9 @@
+Comprehensive Understanding
+---------------------------
+1. - MySQLi -> hanya dapat menghubungkan ke MySQL, dan tidak dapat digunakan untuk sistem database selain MySQL.
+   - PDO -> bersifat universal, yaitu dapat digunakan untuk menghubungkan ke banyak sistem database, selain itu lebih cepat, solid, dan aman.
+
+2. - Kegiatan 2.1 -> mengakses dengan menggunakan nama kolom yang dituju.
+   - Kegiatan 2.2 -> mengakses dengan menggunakan urutan/index kolom yang dituju.
+
+3. Menurut saya, cara terbaik yang digunakan untuk menghubungkan PHP dan MySQL adalah dengan menggunakan PDO, karena PDO bersifat universal, yaitu dapat digunakan untuk menghubungkan ke banyak sistem database, selain itu lebih cepat, solid, dan aman.

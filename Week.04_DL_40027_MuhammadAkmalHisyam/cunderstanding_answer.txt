@@ -1,0 +1,11 @@
+Comprehensive Understanding
+---------------------------
+1. PHP Predefined Variable adalah variabel yang sudah terdefinisi dan sudah disediakan oleh PHP, atau biasa disebut dengan variabel superglobal.
+   Contoh:
+   - $_POST -> sebuah metode atau cara mengambil nilai dari input yang dikirim oleh user melalui input form.
+   - $_GET -> sama seperti $_POST tetapi data yang diinput bisa langsung dilihat oleh user karena form yang dikirim semuanya menjadi array dan tersimpan pada Query String.
+   - $_REQUEST -> sebuah alternatif untuk mengambil data dari form atau bisa dibilang gabungan antara $_POST dan $_GET.
+   - $_FILES -> sebuah cara request client dengan method HTTP Upload, untuk mengupload file ke server.
+
+2. - GET -> mengirimkan data secara tidak langsung.
+   - POST -> mengirimkan data secara langsung.

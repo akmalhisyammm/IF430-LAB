@@ -1,0 +1,12 @@
+Comprehensive Understanding
+---------------------------
+1. PHP framework dibagi menjadi 2 kategori, yaitu Glue dan Full-Stack
+   - Glue framework	  : memberikan fleksibilitas yang lebih baik daripada Full-Stack framework serta mengizinkan developer untuk memilih cara mereka untuk menggunakan kode yang sudah disediakan oleh framework.
+   - Full-Stack framework : cenderung lebih mengikat dan sulit untuk mengimplementasikan ide karena membutuhkan effort yang lebih untuk membuat semuanya bekerja, tetapi di sisi lain framework ini dapat menghemat waktu pengembangan dengan menyediakan logika per-built untuk pola aplikasi tertentu.
+
+2. 5 framework kategori web CMS
+   - WordPress : mudah digunakan dan dapat dimodifikasi sesuai keinginan pengguna dengan cara menginstall plugin dan tema yang sudah disediakan.
+   - Joomla! : pilihan yang ideal apabila pengguna hendak menjalankan website yang tidak sepenuhnya berfokus pada konten teks serta menawarkan berbagai opsi terkait pengelolaan / manajemen user.
+   - Drupal : hampir sama dengan Joomla tetapi terdapat beberapa perbedaan, yaitu sistem taksonomi Drupal lebih powerful jika dibandingkan dengan CMS kompetitornya dan dinilai lebih aman.
+   - Typo3 : didedikasikan untuk website pada level enterprise dan lebih cocok digunakan untuk pengguna yang sudah memiliki keahlian dan kemampuan di bidang pengembangan web.
+   - Serendipity : merupakan salah satu CMS teringan dan cocok digunakan untuk membuat website sederhana, contohnya seperti blog.

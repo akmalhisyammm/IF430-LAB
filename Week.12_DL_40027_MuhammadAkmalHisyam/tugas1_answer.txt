@@ -1,0 +1,19 @@
+Tugas 1
+-------
+1. Fitur-fitur Grocery CRUD
+   - Browser compability 	  : mendukung semua browser utama (Chrome, Safari, Firefox, Opera, dsb)
+   - Multilingual 		  : sudah diterjemahkan ke dalam 34 bahasa
+   - Big community and support 	  : mempunyai komunitas yang besar
+   - Database relations made easy : mendukung one-to-many dan many-to-many
+   - Well documented 		  : dokumentasi yang lengkap dan kompleks
+
+2. Fungsi callback pada Grocery CRUD dan tipe-tipenya
+   > Fungsi    : untuk melakukan escaping terhadap suatu proses operasi dan memasukkan logika sebelum meneruskan ke proses akhir
+   > Tipe-tipe :
+     - Callback Column
+     - Callback Delete
+     - Callback After (delete, insert, update, upload)
+     - Callback Before (delete, insert, update, upload)
+     - Callback add field
+     - Callback edit field
+     - Callback Insert / Callback Update / Callback Delete

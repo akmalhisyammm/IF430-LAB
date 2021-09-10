@@ -1,0 +1,25 @@
+Kegiatan 1
+----------
+/*** Nomor 1 ***/
+- Single quotes: parser php akan menganggap seluruh isi string adalah benar-benar string tanpa harus diperiksa apakah ada variabel / escape character di dalamnya
+- Double quotes: parser php akan memeriksa seluruh isi string dari awal sampai akhir untuk mencari kemungkinan adanya variabel / escape character yang harus disesuaikan isinya
+
+Tampilan dari script tersebut adalah:
+I'm "not" a girl
+I'm a womanThat is Mario\'s cat
+Her name is Maria
+
+/*** Nomor 2 ***/
+for ($i = 1; $i <= 50; $i++)
+{
+    if ($i%3 == 0 && $i%5 == 0 ) {
+        $desc = 'ping pong';
+    } else if ($i%3 == 0) {
+        $desc = 'ping';
+    } else if ($i%5 == 0) {
+        $desc = 'pong';
+    } else {
+        $desc = 'dum';
+    }
+    echo ("$i - $desc<br>");
+}

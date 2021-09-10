@@ -1,0 +1,18 @@
+Comprehensive Understanding
+---------------------------
+1. Keuntungan dari Object Oriented Programming
+   - Reusability : kemudahan dalam menggunakan kembali bagian kode yang sudah dibuat.
+   - Refactoring : kemudahan dalam memperbaiki kode yang sudah dibuat jika diperlukan.
+   - Extensible	 : kemudahan dalam menambahkan fitur baru ke proyek yang sudah dibuat.
+   - Maintenance : kemudahan dalam melakukan pemeliharaan kode yang sudah dibuat.
+
+2. a) Class	  : blueprint yang digunakan untuk membuat objek.
+   b) Object	  : hasil cetak dari class.
+   c) Inheritance : konsep dimana sebuah class dapat menurunkan property dan method yang dimilikinya kepada class lain.
+   d) Constructor : method khusus yang dijalankan secara otomatis pada saat sebuah objek dibuat.
+   e) Destructor  : method khusus yang dijalankan secara otomatis pada saat sebuah objek dihapus.
+
+3. Model View Controller (MVC) adalah konsep arsitektur dalam pembangunan aplikasi berbasis web yang membagi aplikasi web menjadi 3 bagian besar, yaitu :
+   - Model	: Bertugas untuk mengatur, menyiapkan, memanipulasi dan mengorganisasikan data (dari database) sesuai dengan instruksi dari controller.
+   - View	: Bertugas untuk menampilkan informasi kepada user sesuai dengan instruksi dari controller.
+   - Controller : Bertugas untuk mengatur apa yang harus dilakukan model dan view.

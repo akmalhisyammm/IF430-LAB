@@ -1,0 +1,12 @@
+Comprehensive Understanding
+---------------------------
+1. 5 macam URL helper yang terdapat di CodeIgniter
+   - Array : berfungsi untuk membantu segala proses yang menggunakan array pada aplikasi yang dibuat
+   - Cookie : berfungsi untuk menyimpan berbagai data cookie (seperti saat login) dan juga membantu pekerjaan yang ada hubungannya dengan pembacaan data cookie
+   - Captcha : berfungsi untuk membuat captcha pada aplikasi yang dibuat
+   - Date : berfungsi untuk membantu segala proses yang ada kaitannya dengan tanggal, seperti Timestamp, atau mengkonversi fungsi now menjadi UNIX Timestamp
+   - Download : berfungsi untuk melakukan aktivitas yang berkaitan dengan pengunduhan data
+
+2. Cara menghubungkan CodeIgniter dengan database di file database.php yaitu dengan cara melakukan pengaturan database dengan memasukkan hostname, username, password, dan nama database yang digunakan.
+
+3. Fungsi dari konfigurasi di file autoload.php yaitu untuk mengatur fungsi-fungsi yang akan dimuat otomatis di awal ketika program dijalankan. 
